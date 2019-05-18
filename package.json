@@ -1,0 +1,23 @@
+{
+  "name": "handlebars-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therealjustinbiele/handlebars-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therealjustinbiele/handlebars-practice/issues"
+  },
+  "homepage": "https://github.com/therealjustinbiele/handlebars-practice#readme",
+  "dependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
